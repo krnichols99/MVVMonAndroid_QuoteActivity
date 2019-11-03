@@ -5,6 +5,14 @@
     {
         <string name="activity_sign_up_page_banner">Sign Up</string>
         <string name="activity_sign_up_page_description">Please fill in the following required fields.</string>
+        <string name="activity_sign_up_page_lastname_text">Last name</string>
+        <string name="activity_sign_up_page_lastname_input">Enter last name</string>
+        <string name="activity_sign_up_page_firstname_text">First name</string>
+        <string name="activity_sign_up_page_firstname_input">Enter first name</string>
+        <string name="activity_sign_up_page_DOB_text">Date of birth</string>
+        <string name="activity_sign_up_page_DOB_input">MM/DD/YYYY</string>
+        <string name="activity_sign_up_page_policyNum_text">Policy number</string>
+        <string name="activity_sign_up_page_policyNum_input">ABCD-123456</string>
         <string name="activity_sign_up_enter_email_text">Email</string>
         <string name="activity_sign_up_enter_email_input">Enter email</string>
         <string name="activity_sign_up_enter_password_text">Password</string>

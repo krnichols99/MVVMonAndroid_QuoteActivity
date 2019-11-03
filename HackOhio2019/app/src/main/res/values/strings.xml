@@ -4,5 +4,14 @@
     //activity_login_page resources
     {
         <string name="activity_sign_up_page_banner">Sign Up</string>
+        <string name="activity_sign_up_page_description">Please fill in the following required fields.</string>
+        <string name="activity_sign_up_enter_email_text">Email</string>
+        <string name="activity_sign_up_enter_email_input">Enter email</string>
+        <string name="activity_sign_up_enter_password_text">Password</string>
+        <string name="activity_sign_up_enter_password_input">Enter password</string>
+        <string name="activity_sign_up_repeat_password_text">Repeat Password</string>
+        <string name="activity_sign_up_repeat_password_input">Repeat Password</string>
+        <string name="activity_sign_up_signup_button">Sign Up</string>
+        <string name="activity_sign_up_cancel_button">Cancel</string>
     }
 </resources>

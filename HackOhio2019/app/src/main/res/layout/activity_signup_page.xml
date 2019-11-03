@@ -13,7 +13,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginLeft="32dp"
         android:layout_marginTop="12dp"
-        android:text="TextView"
+        android:text="@string/activity_sign_up_page_banner"
         android:textSize="36sp"
         app:fontFamily="sans-serif"
         app:layout_constraintStart_toStartOf="parent"
@@ -24,12 +24,12 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="72dp"
+        android:layout_marginTop="60dp"
         android:text="@string/activity_sign_up_page_description"
-        android:textSize="12sp"
+        android:textSize="18sp"
         app:fontFamily="sans-serif"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.162"
+        app:layout_constraintHorizontal_bias="0.376"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -41,6 +41,7 @@
         android:layout_marginLeft="32dp"
         android:layout_marginTop="50dp"
         android:text="@string/activity_sign_up_enter_email_text"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
@@ -52,6 +53,7 @@
         android:layout_marginLeft="32dp"
         android:layout_marginTop="100dp"
         android:text="@string/activity_sign_up_enter_password_text"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
@@ -63,6 +65,7 @@
         android:layout_marginLeft="32dp"
         android:layout_marginTop="100dp"
         android:text="@string/activity_sign_up_repeat_password_text"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
@@ -94,7 +97,7 @@
         android:ems="10"
         android:hint="@string/activity_sign_up_enter_email_input"
         android:inputType="textEmailAddress"
-        android:textSize="14sp"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
@@ -107,7 +110,7 @@
         android:ems="10"
         android:hint="@string/activity_sign_up_enter_password_input"
         android:inputType="textPassword"
-        android:textSize="14sp"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
@@ -120,7 +123,7 @@
         android:ems="10"
         android:hint="@string/activity_sign_up_repeat_password_input"
         android:inputType="textPassword"
-        android:textSize="14sp"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView6" />
 

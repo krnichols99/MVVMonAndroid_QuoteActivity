@@ -16,6 +16,13 @@
     }
     //activity_login_page resources
     {
-        <string name="activity_login_page_banner">Login</string>
+        <string name="activity_login_page_banner">Log In to Your Account</string>
+        <string name="activity_login_page_username">Username:</string>
+        <string name="activity_login_page_username_hint">Username</string>
+        <string name="activity_login_page_password">Password:</string>
+        <string name="activity_login_page_password_hint">Password</string>
+        <string name="activity_login_page_forgot_password">Forgot password?</string>
+        <string name="activity_login_page_login_button">Log in</string>
+        <string name="activity_login_page_signup_button">Need an account? Sign up</string>
     }
 </resources>

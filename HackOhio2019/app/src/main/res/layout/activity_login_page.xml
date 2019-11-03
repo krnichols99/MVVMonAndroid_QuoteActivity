@@ -20,5 +20,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="@string/activity_sign_up_page_banner" />
+        tools:text="@string/activity_login_page_banner" />
 </androidx.constraintlayout.widget.ConstraintLayout>

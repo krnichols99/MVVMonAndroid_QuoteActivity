@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HackOhio2019</string>
+
+    //activity_login_page resources
+    {
+        <string name="activity_sign_up_page_banner">Sign Up</string>
+    }
 </resources>

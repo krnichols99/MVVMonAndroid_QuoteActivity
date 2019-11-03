@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">HackOhio2019</string>
 
-    //activity_login_page resources
+    //activity_signup_page resources
     {
         <string name="activity_sign_up_page_banner">Sign Up</string>
         <string name="activity_sign_up_page_description">Please fill in the following required fields.</string>
@@ -13,5 +13,9 @@
         <string name="activity_sign_up_repeat_password_input">Repeat Password</string>
         <string name="activity_sign_up_signup_button">Sign Up</string>
         <string name="activity_sign_up_cancel_button">Cancel</string>
+    }
+    //activity_login_page resources
+    {
+        <string name="activity_login_page_banner">Login</string>
     }
 </resources>
